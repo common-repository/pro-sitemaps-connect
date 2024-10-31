@@ -1,0 +1,258 @@
+# PRO Sitemaps Language file 
+#
+#
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PRO "
+"Sitemaps Self Hosted "
+"Plugin\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2023-12-08 12:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: PRO "
+"Sitemaps (contact@pro-"
+"sitemaps.com)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-api.php:106
+#: pro-sitemaps-api.php:113
+msgid ""
+"PRO Sitemaps API "
+"settings not defined"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-api.php:143
+#: pro-sitemaps-api.php:150
+msgid "Error "
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:96
+#: pro-sitemaps-settings.php:95
+msgid ""
+"PRO Sitemaps API "
+"Configuration"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:121
+#: pro-sitemaps-settings.php:120
+msgid "Settings"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:131
+#: pro-sitemaps-settings.php:130
+msgid ""
+"PRO Sitemaps Plugin "
+"Settings"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:132
+#: pro-sitemaps-settings.php:131
+msgid "PRO Sitemaps"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:207
+#: pro-sitemaps-settings.php:206
+msgid ""
+"Show PRO Sitemaps API "
+"Key instructions"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:222
+#: pro-sitemaps-settings.php:222
+msgid ""
+"Testing your API "
+"connection"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:228
+#: pro-sitemaps-settings.php:228
+msgid "Error: "
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:233
+#: pro-sitemaps-settings.php:233
+msgid "Success"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:236
+#: pro-sitemaps-settings.php:236
+msgid ""
+"Your PRO Sitemaps site "
+"account settings"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:266
+#: pro-sitemaps-settings.php:266
+msgid "Your Sitemap URL"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:267
+#: pro-sitemaps-settings.php:267
+msgid "Original Sitemap"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:272
+#: pro-sitemaps-settings.php:272
+msgid ""
+"You are all set now."
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:273
+#: pro-sitemaps-settings.php:273
+msgid ""
+"<p>We recommend to "
+"enable the \"Update "
+"robots.txt\" setting "
+"below on this page and "
+"submit the following "
+"sitemaps in your <a "
+"href=\"https://search."
+"google.com/search-"
+"console\" "
+"target=\"_blank\">Google "
+"Search Console</a> "
+"account:</p>"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:281
+#: pro-sitemaps-settings.php:281
+msgid ""
+"Show the full list of "
+"found sitemaps"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:285
+#: pro-sitemaps-settings.php:285
+msgid ""
+"No sitemaps have been "
+"detected, please check "
+"your PRO Sitemaps account"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:290
+#: pro-sitemaps-settings.php:290
+msgid ""
+"Show debug info of the "
+"testing API request"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:315
+#: pro-sitemaps-settings.php:314
+msgid ""
+"Note: This feature is "
+"not available until "
+"correct API options "
+"above are provided"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:319
+#: pro-sitemaps-settings.php:318
+msgid ""
+"Note: This feature is "
+"not available while a "
+"physical robots.txt file "
+"exists in the blog folder"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:321
+#: pro-sitemaps-settings.php:320
+msgid ""
+"We recommend adding "
+"these entries in your "
+"robots.txt file:"
+msgstr ""
+
+#: -release/pro-sitemaps-connect/pro-sitemaps-settings.php:334
+#: pro-sitemaps-settings.php:333
+msgid ""
+"Note: This API method is "
+"only available for "
+"upgraded PRO Sitemaps "
+"accounts"
+msgstr ""
+
+#: pro-sitemaps-settings.php:66
+msgid ""
+"PRO Sitemaps Site ID"
+msgstr ""
+
+#: pro-sitemaps-settings.php:67
+msgid ""
+"Enter the Site ID of "
+"your PRO Sitemaps account"
+msgstr ""
+
+#: pro-sitemaps-settings.php:72
+msgid ""
+"PRO Sitemaps API Key"
+msgstr ""
+
+#: pro-sitemaps-settings.php:77
+msgid "Sitemap name"
+msgstr ""
+
+#: pro-sitemaps-settings.php:78
+msgid ""
+"Customize the URL of "
+"your sitemap</i>"
+msgstr ""
+
+#: pro-sitemaps-settings.php:82
+msgid "Update robots.txt"
+msgstr ""
+
+#: pro-sitemaps-settings.php:83
+msgid ""
+"Add sitemap entry to "
+"your website's robots."
+"txt file"
+msgstr ""
+
+#: pro-sitemaps-settings.php:87
+msgid "Sitemap Auto update"
+msgstr ""
+
+#: pro-sitemaps-settings.php:88
+msgid ""
+"Send an API request to "
+"update sitemap every "
+"time a new post is "
+"created"
+msgstr ""
